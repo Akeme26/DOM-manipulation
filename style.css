@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.layout {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.btn_options {
+    margin: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: center;
+}
+
+#btn1, #btn2, #btn4, #btn5, #btn6, #imgbtn1, #imgbtn2{
+    width: 130px;
+    height: 40px;
+    margin: 6px;
+    border-radius: 5px;
+    font: inherit;
+}
+
+#counter {
+    font-size:90px;
+    margin: 5px;
+}
+
+#input{
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#btn3 {
+    background-color: wheat;
+    border-radius:5px;
+    height: 40px;
+    font:inherit;
+}
+
+#btn1 {
+    background-color: green;
+}
+
+#btn2 {
+    background-color: red;
+}
+
+#btn4 {
+    background-color: pink;
+}
+
+#btn5 {
+    background-color: green;
+}
+
+#btn6 {
+    background-color: purple;
+}
+
+#imgbtn1{
+    background-color: blue;
+    margin: 6;
+}
+
+#imgbtn2 {
+    background-color:yellow;
+}
